@@ -311,7 +311,7 @@ GPT-3.5 응답 생성 → UI 출력 & PDF 저장
 ## 📬 Contact
 
 - 📧 Email: `khg011012@gmail.com`  
-- 🧩 포트폴리오 사이트: `yourdomain.com` (선택)
+- [🧩 포트폴리오 사이트](https://kjh011012.github.io/JkimH/)
 
 ---
 
